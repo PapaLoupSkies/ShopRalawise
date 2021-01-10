@@ -1,0 +1,2 @@
+# ShopRalawise
+Automatisatoin for Friend
